@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Class Selector */
+/* Class Selector */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* id Selector */
 #contact-section {
   background-color: #f0ead6;
 }
