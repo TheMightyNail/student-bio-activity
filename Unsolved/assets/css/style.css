@@ -1,9 +1,9 @@
-/* TODO: Label selector type */
+/* This is the universal selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* Body elemeent selector */
 body {
   background-color: lemonchiffon;
 }
@@ -22,7 +22,7 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* TODO: Class Selector */
 .highlighted-text {
   font-weight: bolder;
 }
